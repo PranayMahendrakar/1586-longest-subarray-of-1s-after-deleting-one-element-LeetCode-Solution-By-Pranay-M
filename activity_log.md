@@ -7,3 +7,4 @@
 - [2026-04-07T11:31:29Z] style: apply consistent code formatting
 - [2026-04-07T20:56:47Z] refactor: clean up unused imports
 - [2026-04-07T16:56:37Z] style: apply consistent code formatting
+- [2026-04-07T12:34:14Z] fix: handle null pointer exception
